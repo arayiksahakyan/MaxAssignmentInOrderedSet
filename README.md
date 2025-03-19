@@ -17,8 +17,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <MaxAssignmentInOrderedSet>
+   cd <MaxAssignmentInOrderedSet>
    ```
 2. Install dependencies:
    ```sh
